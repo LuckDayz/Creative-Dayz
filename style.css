@@ -1,0 +1,38 @@
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+body{
+    background-color: green;
+}
+
+h2 {
+    font-family: cursive;
+    padding: 10px;
+    color: white;
+    font-size: larger;
+
+}
+span {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    padding: 10px;
+}
+pre {
+    font-style: italic;
+    font-weight: 800;
+}
+
+p {
+    font-family: cursive;
+    font-weight: 900;
+    }
+.crazy scene {
+    width: 200%;
+    height: 100%;
+}
+#crazy thing {
+    width: 200%;
+    height: 100%;
+}
